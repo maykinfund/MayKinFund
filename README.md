@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**maykinfund/MayKinFund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**maykinfund/MayKinFund** is a ✨ _special_ ✨ repository
+
+Here are some ideas we are currently working on:
 
 - 🔭 I’m currently working on ...
 https://maykinfund.com
@@ -16,4 +16,3 @@ Love tokens
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
